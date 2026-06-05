@@ -6,11 +6,10 @@ import numpy as np
 
 # ==============================================================================
 # 1. CONFIGURACIÓN DE PÁGINA
-# El tema visual (fondo, colores de tablas, selectbox, barra superior)
 # se controla desde .streamlit/config.toml con base="light"
 # ==============================================================================
 st.set_page_config(
-    page_title="De la Profundidad a la Cumbre",
+    page_title="Páramos en Riesgo: El Eco de Nuestra Huella"
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -152,7 +151,9 @@ st.markdown("""
         🏔️ De la Profundidad a la Cumbre: Evaluación de Riesgo Hídrico y Taxonómico
     </h2>
     <p style='margin:4px 0px 0px 0px; font-size:13px; color:#475569;'>
-        Monitoreo técnico de variables ambientales e intervención en complejos de páramo colombianos.
+       Los páramos son refugio de una fauna irreemplazable, donde <b>mamíferos, aves y reptiles</b> han adaptado sus ciclos de vida al frío y la altura. 
+            Este ecosistema protege nuestra muestra de <b>49 especies clave</b>, entre las que destacan el Oso Andino, el Loro Orejiamarillo, el Cóndor Andino y el Lagarto de Páramo; 
+            su presencia es el termómetro vivo que nos alerta sobre el equilibrio y la salud hídrica de nuestros complejos montañosos.
     </p>
 </div>
 """, unsafe_allow_html=True)
