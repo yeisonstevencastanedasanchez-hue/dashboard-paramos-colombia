@@ -148,12 +148,10 @@ df_resumen['calidad_ica_label'] = df_resumen['calidad_agua_ica'].map(clasificar_
 st.markdown("""
 <div class='dashboard-header-box'>
     <h2 style='margin:0px; font-size:24px; font-weight:700; color:#0F172A;'>
-        🏔️ Páramos en Riesgo: El Eco de Nuestra Huella
+        🏔️ Ecos de la Cumbre: Nuestra Huella en el Páramo
     </h2>
     <p style='margin:4px 0px 0px 0px; font-size:13px; color:#475569;'>
-       Los páramos son refugio de una fauna irreemplazable, donde <b>mamíferos, aves y reptiles</b> han adaptado sus ciclos de vida al frío y la altura. 
-            Este ecosistema protege nuestra muestra de <b>49 especies clave</b>, entre las que destacan el Oso Andino, el Loro Orejiamarillo, el Cóndor Andino y el Lagarto de Páramo; 
-            su presencia es el termómetro vivo que nos alerta sobre el equilibrio y la salud hídrica de nuestros complejos montañosos.
+       Más allá de ser fábricas de agua, los páramos son el hogar de mamíferos, aves y reptiles únicos. Seguimos la ruta de 49 especies, desde el Oso Andino hasta el Lagarto de Páramo, usando su bienestar como el indicador definitivo de la salud de nuestras fuentes hídricas ante la actividad humana.
     </p>
 </div>
 """, unsafe_allow_html=True)
