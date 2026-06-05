@@ -438,13 +438,10 @@ st.markdown("""
         <p style='line-height:1.6; color:#1E293B;'>
             <b>Más allá de los números:</b> Cada litro consumido y cada punto de presión reportado no son solo métricas, sino alertas sobre la viabilidad de especies como el 
             Oso Andino. La conclusión es clara: la industria puede coexistir con el páramo, pero solo si la <i>distancia técnica</i> se convierte en <i>respeto biológico</i>. 
-            El desarrollo futuro no se mide por la capacidad de extracción, sino por nuestra capacidad de mantener la integridad de estos guardianes de altura.
-        </p>
-        
-        <p style='line-height:1.6; color:#1E293B; font-size: 14px;'>
-            Este dashboard es el resultado de un modelo de evaluación ambiental integral. Nuestro propósito es visibilizar la interdependencia entre la industria 
+            El desarrollo futuro no se mide por la capacidad de extracción, sino por nuestra capacidad de mantener la integridad de estos guardianes de altura. Este análisis es el resultado de un modelo de evaluación ambiental integral. Nuestro propósito es visibilizar la interdependencia entre la industria 
             y la biodiversidad, promoviendo una gestión basada en la transparencia científica y la protección de los ciclos vitales del páramo.
-        </p>
+
+                </p>
         
         
     </div>
