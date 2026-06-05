@@ -9,7 +9,7 @@ import numpy as np
 # se controla desde .streamlit/config.toml con base="light"
 # ==============================================================================
 st.set_page_config(
-    page_title="Páramos en Riesgo: El Eco de Nuestra Huella"
+    page_title="Páramos en Riesgo: El Eco de Nuestra Huella",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
