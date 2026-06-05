@@ -440,10 +440,8 @@ st.markdown("""
             Oso Andino. La conclusión es clara: la industria puede coexistir con el páramo, pero solo si la <i>distancia técnica</i> se convierte en <i>respeto biológico</i>. 
             El desarrollo futuro no se mide por la capacidad de extracción, sino por nuestra capacidad de mantener la integridad de estos guardianes de altura. Este análisis es el resultado de un modelo de evaluación ambiental integral. Nuestro propósito es visibilizar la interdependencia entre la industria 
             y la biodiversidad, promoviendo una gestión basada en la transparencia científica y la protección de los ciclos vitales del páramo.
-
                 </p>
-        
-        
+    
     </div>
 """, unsafe_allow_html=True)
 
