@@ -439,7 +439,7 @@ st.markdown("""
         <h4 style='color:#064E3B; margin-top:20px;'>Sobre el Proyecto</h4>
         <p style='line-height:1.6; color:#1E293B; font-size: 14px;'>
             Este dashboard es el resultado de un modelo de evaluación ambiental integral, desarrollado para transformar datos técnicos complejos 
-            en decisiones de conservación. El propósito es visibilizar la interdependencia entre la industria y la biodiversidad, 
+            en decisiones de conservación. Nuestro propósito es visibilizar la interdependencia entre la industria y la biodiversidad, 
             promoviendo un modelo de gestión basado en la transparencia científica y el respeto por los ciclos de vida de nuestros páramos.
         </p>
     </div>
@@ -451,7 +451,6 @@ st.markdown("""
         © 2026 - Proyecto de Monitoreo Ambiental. Datos procesados bajo protocolos técnicos de la ANLA y SIB Colombia.
     </div>
 """, unsafe_allow_html=True)
-
 
 # ==============================================================================
 # 7. REFERENCIAS BIBLIOGRÁFICAS
