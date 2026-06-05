@@ -431,11 +431,20 @@ st.markdown("""
     <div style='background-color: #F1F5F9; border-top: 4px solid #064E3B; padding: 25px; border-radius: 8px; margin-top: 30px;'>
         <h3 style='color:#064E3B;'>Conclusión: Hacia un Desarrollo Resiliente</h3>
         <p style='line-height:1.6; color:#1E293B;'>
-            Este análisis demuestra que existe una correlación crítica entre la cercanía operativa y la degradación del recurso hídrico. 
-            La conservación de las 49 especies monitoreadas no es solo un imperativo ético, sino el indicador técnico necesario para garantizar la resiliencia de los páramos. 
-            <b>La sostenibilidad solo será posible si el desarrollo se integra armoniosamente con la capacidad de carga biológica de estos ecosistemas estratégicos.</b> Este dashboard es el resultado de un modelo de evaluación ambiental integral, desarrollado para transformar datos técnicos complejos 
-            en decisiones de conservación. Nuestro propósito es visibilizar la interdependencia entre la industria y la biodiversidad, 
-            promoviendo un modelo de gestión basado en la transparencia científica y el respeto por los ciclos de vida de nuestros páramos.
+            A través de este dashboard, hemos transformado variables técnicas en una historia de fragilidad. Los datos muestran una correlación directa: 
+            proyectos como el de <b>Exploración Central</b>, con una demanda hídrica de 30 M-L, coinciden con las presiones más altas sobre el hábitat (41.4 puntos). 
+            Al cruzar la <b>distancia operativa con el Índice de Calidad del Agua (ICA)</b>, observamos que, a menor distancia, la resiliencia biológica de nuestras <b>49 especies clave</b> decae drásticamente.
+        </p>
+        <p style='line-height:1.6; color:#1E293B;'>
+            <b>Más allá de los números:</b> Cada litro consumido y cada punto de presión reportado no son solo métricas, sino alertas sobre la viabilidad de especies como el 
+            Oso Andino. La conclusión es clara: la industria puede coexistir con el páramo, pero solo si la <i>distancia técnica</i> se convierte en <i>respeto biológico</i>. 
+            El desarrollo futuro no se mide por la capacidad de extracción, sino por nuestra capacidad de mantener la integridad de estos guardianes de altura.
+        </p>
+        
+        <h4 style='color:#064E3B; margin-top:20px;'>Sobre este Análisis</h4>
+        <p style='line-height:1.6; color:#1E293B; font-size: 14px;'>
+            Este dashboard es el resultado de un modelo de evaluación ambiental integral. Nuestro propósito es visibilizar la interdependencia entre la industria 
+            y la biodiversidad, promoviendo una gestión basada en la transparencia científica y la protección de los ciclos vitales del páramo.
         </p>
         
         
