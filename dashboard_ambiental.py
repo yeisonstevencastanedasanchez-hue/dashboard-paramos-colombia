@@ -441,7 +441,6 @@ st.markdown("""
             El desarrollo futuro no se mide por la capacidad de extracción, sino por nuestra capacidad de mantener la integridad de estos guardianes de altura.
         </p>
         
-        <h4 style='color:#064E3B; margin-top:20px;'>Sobre este Análisis</h4>
         <p style='line-height:1.6; color:#1E293B; font-size: 14px;'>
             Este dashboard es el resultado de un modelo de evaluación ambiental integral. Nuestro propósito es visibilizar la interdependencia entre la industria 
             y la biodiversidad, promoviendo una gestión basada en la transparencia científica y la protección de los ciclos vitales del páramo.
