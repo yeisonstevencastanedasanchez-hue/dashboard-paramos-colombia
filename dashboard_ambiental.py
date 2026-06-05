@@ -148,7 +148,7 @@ df_resumen['calidad_ica_label'] = df_resumen['calidad_agua_ica'].map(clasificar_
 st.markdown("""
 <div class='dashboard-header-box'>
     <h2 style='margin:0px; font-size:24px; font-weight:700; color:#0F172A;'>
-        🏔️ De la Profundidad a la Cumbre: Evaluación de Riesgo Hídrico y Taxonómico
+        🏔️ Páramos en Riesgo: El Eco de Nuestra Huella
     </h2>
     <p style='margin:4px 0px 0px 0px; font-size:13px; color:#475569;'>
        Los páramos son refugio de una fauna irreemplazable, donde <b>mamíferos, aves y reptiles</b> han adaptado sus ciclos de vida al frío y la altura. 
