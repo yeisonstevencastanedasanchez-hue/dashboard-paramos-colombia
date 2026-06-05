@@ -427,6 +427,30 @@ st.dataframe(
     hide_index=True
 )
 st.markdown("</div>", unsafe_allow_html=True)
+st.markdown("""
+    <div style='background-color: #F1F5F9; border-top: 4px solid #064E3B; padding: 25px; border-radius: 8px; margin-top: 30px;'>
+        <h3 style='color:#064E3B;'>Conclusión: Hacia un Desarrollo Resiliente</h3>
+        <p style='line-height:1.6; color:#1E293B;'>
+            Este análisis demuestra que existe una correlación crítica entre la cercanía operativa y la degradación del recurso hídrico. 
+            La conservación de las 49 especies monitoreadas no es solo un imperativo ético, sino el indicador técnico necesario para garantizar la resiliencia de los páramos. 
+            <b>La sostenibilidad solo será posible si el desarrollo se integra armoniosamente con la capacidad de carga biológica de estos ecosistemas estratégicos.</b>
+        </p>
+        
+        <h4 style='color:#064E3B; margin-top:20px;'>Sobre el Proyecto</h4>
+        <p style='line-height:1.6; color:#1E293B; font-size: 14px;'>
+            Este dashboard es el resultado de un modelo de evaluación ambiental integral, desarrollado para transformar datos técnicos complejos 
+            en decisiones de conservación. El propósito es visibilizar la interdependencia entre la industria y la biodiversidad, 
+            promoviendo un modelo de gestión basado en la transparencia científica y el respeto por los ciclos de vida de nuestros páramos.
+        </p>
+    </div>
+""", unsafe_allow_html=True)
+
+# Mantenemos las referencias pequeñas al final
+st.markdown("""
+    <div style='margin-top: 20px; font-size:10px; color:#64748B; text-align: center;'>
+        © 2026 - Proyecto de Monitoreo Ambiental. Datos procesados bajo protocolos técnicos de la ANLA y SIB Colombia.
+    </div>
+""", unsafe_allow_html=True)
 
 
 # ==============================================================================
