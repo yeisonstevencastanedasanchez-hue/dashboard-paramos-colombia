@@ -433,15 +433,12 @@ st.markdown("""
         <p style='line-height:1.6; color:#1E293B;'>
             Este análisis demuestra que existe una correlación crítica entre la cercanía operativa y la degradación del recurso hídrico. 
             La conservación de las 49 especies monitoreadas no es solo un imperativo ético, sino el indicador técnico necesario para garantizar la resiliencia de los páramos. 
-            <b>La sostenibilidad solo será posible si el desarrollo se integra armoniosamente con la capacidad de carga biológica de estos ecosistemas estratégicos.</b>
-        </p>
-        
-        <h4 style='color:#064E3B; margin-top:20px;'>Sobre el Proyecto</h4>
-        <p style='line-height:1.6; color:#1E293B; font-size: 14px;'>
-            Este dashboard es el resultado de un modelo de evaluación ambiental integral, desarrollado para transformar datos técnicos complejos 
+            <b>La sostenibilidad solo será posible si el desarrollo se integra armoniosamente con la capacidad de carga biológica de estos ecosistemas estratégicos.</b>Este dashboard es el resultado de un modelo de evaluación ambiental integral, desarrollado para transformar datos técnicos complejos 
             en decisiones de conservación. Nuestro propósito es visibilizar la interdependencia entre la industria y la biodiversidad, 
             promoviendo un modelo de gestión basado en la transparencia científica y el respeto por los ciclos de vida de nuestros páramos.
         </p>
+        
+        
     </div>
 """, unsafe_allow_html=True)
 
