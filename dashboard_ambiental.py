@@ -445,13 +445,6 @@ st.markdown("""
     </div>
 """, unsafe_allow_html=True)
 
-# Mantenemos las referencias pequeñas al final
-st.markdown("""
-    <div style='margin-top: 20px; font-size:10px; color:#64748B; text-align: center;'>
-        © 2026 - Proyecto de Monitoreo Ambiental. Datos procesados bajo protocolos técnicos de la ANLA y SIB Colombia.
-    </div>
-""", unsafe_allow_html=True)
-
 # ==============================================================================
 # 7. REFERENCIAS BIBLIOGRÁFICAS
 # ==============================================================================
@@ -472,6 +465,12 @@ st.markdown("""
               <i>Catálogo estructurado de especies amenazadas de la fauna silvestre colombiana</i>.
               Alianza institucional Universidad Nacional – SiB.
         </p>
+    </div>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+    <div style='margin-top: 20px; font-size:10px; color:#64748B; text-align: center;'>
+        © 2026 - Proyecto de Monitoreo Ambiental. Datos procesados bajo protocolos técnicos de la ANLA y SIB Colombia.
     </div>
 """, unsafe_allow_html=True)
 
