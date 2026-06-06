@@ -398,7 +398,7 @@ st.markdown("</div>", unsafe_allow_html=True)
 
 
 # ==============================================================================
-# 6. MATRIZ DE COMPLIANCE TAXONÓMICO
+# 6. MATRIZ POR ANIMAL
 # ==============================================================================
 st.markdown("""
 <div class='tableau-chart-container'>
