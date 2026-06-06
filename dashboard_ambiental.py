@@ -6,7 +6,6 @@ import numpy as np
 
 # ==============================================================================
 # 1. CONFIGURACIÓN DE PÁGINA
-# se controla desde .streamlit/config.toml con base="light"
 # ==============================================================================
 st.set_page_config(
     page_title="Páramos en Riesgo: El Eco de Nuestra Huella",
